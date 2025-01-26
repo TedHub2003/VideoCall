@@ -28,7 +28,7 @@ BearSpace est une application web simple et élégante pour organiser des réuni
 ### Étapes
 1. Clonez le projet :
    ```bash
-   git clone https://github.com/votre-repo/bearspace.git
+   git clone https://github.com/TedHub2003/VideoCall.git
    cd bearspace
    ```
 
@@ -47,7 +47,7 @@ BearSpace est une application web simple et élégante pour organiser des réuni
 ## Structure du projet 📂
 
 ```
-BearSpace/
+VideoCallApp/
 ├── src/
 │   ├── main/
 │   │   ├── java/org/example/videocallapp/
